@@ -8,8 +8,12 @@ Udemyで配信中の動画講座「最短で学ぶReactとReduxの基礎から�
 
 # install
 ## using homebrew
-0. install brew
+0. **`*install homebrew*`**
 1. `brew install yarn`
 2. `yarn install`
 3. `yarn start`
 4. open `http://localhost:8080/` maybe or `http://localhost:8081/`
+
+# about docs/react-redux-chart
+draw.ioのアプリを用いて作成しました。  
+`homebrew cask`が利用可能であれば、`brew cask info drawio`でアプリを入手できます。
